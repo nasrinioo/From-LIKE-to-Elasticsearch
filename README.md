@@ -1,4 +1,4 @@
-# From LIKE to Elasticsearch 🚀
+# From LIKE to Elasticsearch
 
 An educational showcase project demonstrating the evolution of search in backend applications by comparing multiple search strategies using the exact same dataset.
 
